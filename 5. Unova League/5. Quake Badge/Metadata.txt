@@ -1,0 +1,4 @@
+Name: The Quake Badge
+Gym: Driftveil City Gym
+Leader: Gym Leader Clay
+Unlocks: HM Fly [1], Obedience Lvl 60

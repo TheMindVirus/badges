@@ -1,0 +1,4 @@
+Name: The Mine Badge
+Gym: Canalave City Gym
+Leader: Gym Leader Byron
+Unlocks: HM Strength, Obedience Lvl 70

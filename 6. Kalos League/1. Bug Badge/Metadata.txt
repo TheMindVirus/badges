@@ -1,0 +1,5 @@
+Name: The Bug Badge
+Nickname: The Bug Badge
+Gym: Santalune City Gym
+Leader: Gym Leader Viola
+Unlocks: HM Cut, Obedience Lvl 30

@@ -1,0 +1,5 @@
+Name: The Plain Badge
+Nickname: The Regular Badge
+Gym: Goldenrod City Gym
+Leader: Gym Leader Whitney
+Unlocks: HM Strength, Speed

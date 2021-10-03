@@ -1,0 +1,5 @@
+Name: The Feather Badge
+Nickname: The Feather Badge
+Gym: Fortree City Gym
+Leader: Gym Leader Winona
+Unlocks: HM Fly, Obedience Lvl 70

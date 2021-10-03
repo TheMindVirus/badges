@@ -1,0 +1,5 @@
+Name: The Iceberg Badge
+Nickname: The Iceberg Badge
+Gym: Snowbelle City Gym
+Leader: Gym Leader Wulfric
+Unlocks: HM Waterfall, Obedience Lvl 100, Challenge

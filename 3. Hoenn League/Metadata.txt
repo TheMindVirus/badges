@@ -1,0 +1,10 @@
+Name: The Hoenn League
+Region: The Hoenn Region
+Location: Ever Grande City
+Challengers: The Hoenn Elite Four, Team Magma, Team Aqua, Team Rocket
+Elite1: Sidney (Dark) [III|VI]
+Elite2: Phoebe (Ghost) [III|VI]
+Elite3: Glacia (Ice) [III|VI]
+Elite4: Drake (Dragon) [III|VI]
+Games: Ruby [III], Sapphire [III], Emerald [III], OmegaRuby [VI], AlphaSapphire [VI]
+Legendaries: Groudon, Kyogre, Rayquaza, Regirock, Regice, Registeel, Latios, Latias, Deoxys

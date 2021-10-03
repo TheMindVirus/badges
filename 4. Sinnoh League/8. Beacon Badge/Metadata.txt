@@ -1,0 +1,4 @@
+Name: The Beacon Badge
+Gym: Sunyshore City Gym
+Leader: Gym Leader Volkner
+Unlocks: HM Waterfall, Obedience Lvl 100, Challenge

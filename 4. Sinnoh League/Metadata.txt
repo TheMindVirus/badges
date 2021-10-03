@@ -1,0 +1,11 @@
+Name: The Sinnoh League
+Region: The Sinnoh Region
+Location: Sinnoh Victory Road
+Challengers: The Sinnoh Elite Four, Champion Cynthia, Team Galactic, Team Rocket
+Elite1: Aaron (Bug) [IV|VIII]
+Elite2: Bertha (Ground) [IV|VIII]
+Elite3: Flint (Fire) [IV|VIII]
+Elite4: Lucian (Psychic) [IV|VIII]
+Champion: Cynthia (All) [IV|VIII]
+Games: Diamond [IV], Pearl [IV], Platinum [IV], BrilliantDiamond [VIII], ShiningPearl [VIII]
+Legendaries: Dialga, Palkia, Uxie, Mesprit, Azelf, Giratina, Heatran, Regigigas, Cresselia, Darkrai

@@ -1,0 +1,6 @@
+Name: The Galar League
+Region: The Galar Region
+Location: Galar Victory Road
+Challengers: Champion Leon, Team Yell, Team Rocket
+Games: Sword [VIII], Shield [VIII], UNITE [VIII]
+Legendaries: Arceus, Zacian, Zamazenta, Eternatus, Kubfu, Urshifu, Glastrier, Spectrier, Calyrex, Regieleki, Regidrago, GalarianArticuno, GalarianZapdos, GalarianMoltres

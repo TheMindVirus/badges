@@ -1,0 +1,11 @@
+Name: The Alola League
+Region: The Alola Region
+Location: Alola Island Kahuna
+Challengers: The Alola Elite Four, Team Skull, Team Rocket, Aether Foundation
+Elite1: Hala (Fighting) [VII*]
+Elite1: Molayne (Steel) [VII**]
+Elite2: Olivia (Rock) [VII*|VII**]
+Elite3: Acerola (Ghost) [VII*|VII**]
+Elite4: Kahili (Flying) [VII*|VII**]
+Games: Sun [VII*], Moon [VII*], Ultra Sun [VII**], Ultra Moon [VII**]
+Legendaries: Solgaleo, Lunala, Necrozma, Tapu Koko, Tapu Lele, Tapu Bulu, Tapu Fini, Cosmog, Cosmoem, Silvally, Type: Null

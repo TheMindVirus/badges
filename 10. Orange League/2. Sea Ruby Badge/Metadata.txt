@@ -1,0 +1,4 @@
+Name: The Sea Ruby Badge
+Gym: Navel Island Gym
+Leader: Gym Leader Danny
+Checks: MountainClimb, BobsledBuild, MountainRace

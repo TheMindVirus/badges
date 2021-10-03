@@ -1,0 +1,5 @@
+Name: The Fairy Badge
+Nickname: The Fairy Badge
+Gym: Laverre City Gym
+Leader: Gym Leader Valerie
+Unlocks: Obedience Lvl 80

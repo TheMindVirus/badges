@@ -1,0 +1,5 @@
+Name: The Hive Badge
+Nickname: The Insect Badge
+Gym: Azalea Town Gym
+Leader: Gym Leader Bugsy
+Unlocks: HM Cut, Obedience Lvl 30

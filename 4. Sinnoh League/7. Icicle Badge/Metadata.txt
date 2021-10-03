@@ -1,0 +1,4 @@
+Name: The Icicle Badge
+Gym: Snowpoint City Gym
+Leader: Gym Leader Candice
+Unlocks: HM Rock Climb

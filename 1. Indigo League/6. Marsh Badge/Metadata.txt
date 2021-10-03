@@ -1,0 +1,5 @@
+Name: The Marsh Badge
+Nickname: The Gold Badge
+Gym: Saffron City Gym
+Leader: Gym Leader Sabrina
+Unlocks: HM Rock Smash [FireRed|LeafGreen], Obedience Lvl 70

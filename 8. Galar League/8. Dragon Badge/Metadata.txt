@@ -1,0 +1,4 @@
+Name: The Dragon Badge
+Gym: Hammerlocke Stadium
+Leader: Gym Leader Raihan
+Unlocks: Obedience Lvl 100, Challenge

@@ -1,0 +1,5 @@
+Name: The Heat Badge
+Nickname: The Heat Badge
+Gym: Lavaridge Town Gym
+Leader: Gym Leader Flannery
+Unlocks: HM Strength, Obedience Lvl 50

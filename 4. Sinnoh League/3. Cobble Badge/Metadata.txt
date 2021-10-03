@@ -1,0 +1,5 @@
+Name: The Cobble Badge
+Gym: Veilstone City Gym
+Leader: Gym Leader Maylene
+Unlocks: HM Fly
+Notes: 4th Gym [Platinum]

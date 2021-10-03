@@ -1,0 +1,6 @@
+Name: The Puzzle League
+Region: The Kanto Region
+Location: Puzzle League Village
+Challengers: Team Rocket, Tracey, Giovanni, Gary (Puzzle Champion)
+Games: PuzzleLeague [0]
+Legendaries: Mewtwo

@@ -1,0 +1,5 @@
+Name: The Fog Badge
+Nickname: The Phantom Badge
+Gym: Ecruteak City Gym
+Leader: Gym Leader Morty
+Unlocks: HM Surf, Obedience Lvl 50

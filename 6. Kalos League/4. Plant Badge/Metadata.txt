@@ -1,0 +1,5 @@
+Name: The Plant Badge
+Nickname: The Plant Badge
+Gym: Coumarine City Gym
+Leader: Gym Leader Ramos
+Unlocks: HM Fly, Obedience Lvl 60

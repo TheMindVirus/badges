@@ -1,0 +1,5 @@
+Name: The Cliff Badge
+Nickname: The Wall Badge
+Gym: Cyllage City Gym
+Leader: Gym Leader Grant
+Unlocks: HM Strength, Obedience Lvl 40

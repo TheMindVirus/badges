@@ -1,0 +1,4 @@
+Name: The Jet Badge
+Gym: Mistralton City Gym
+Leader: Gym Leader Skyla
+Unlocks: HM Surf [1], Obedience Lvl 70

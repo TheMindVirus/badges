@@ -1,0 +1,4 @@
+Name: The Spike Shell Badge
+Gym: Trovita Island Gym
+Leader: Gym Leader Rudy
+Checks: AccuracyTest2, 3v3IsoTypeBattle

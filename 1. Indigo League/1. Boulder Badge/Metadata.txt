@@ -1,0 +1,5 @@
+Name: The Boulder Badge
+Nickname: The Gray Badge
+Gym: Pewter City Gym
+Leader: Gym Leader Brock
+Unlocks: HM Flash, Attack

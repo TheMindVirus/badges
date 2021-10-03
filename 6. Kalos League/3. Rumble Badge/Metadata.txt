@@ -1,0 +1,5 @@
+Name: The Rumble Badge
+Nickname: The Fight Badge
+Gym: Shalour City Gym
+Leader: Gym Leader Korrina
+Unlocks: HM Surf, Obedience Lvl 50

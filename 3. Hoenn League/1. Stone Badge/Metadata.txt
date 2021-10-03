@@ -1,0 +1,5 @@
+Name: The Stone Badge
+Nickname: The Stone Badge
+Gym: Rustboro City Gym
+Leader: Gym Leader Roxanne
+Unlocks: HM Cut, Attack

@@ -1,0 +1,5 @@
+Name: The Zephyr Badge
+Nickname: The Wing Badge
+Gym: Violet City Gym
+Leader: Gym Leader Falkner
+Unlocks: HM Flash, Attack, Obedience Lvl 20 [HeartGold|SoulSilver], HM Rock Smash

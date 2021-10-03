@@ -1,0 +1,10 @@
+Name: The Indigo League
+Region: The Kanto Region
+Location: Kanto Indigo Plateau
+Challengers: The Kanto Indigo Elite Four, Team Rocket
+Elite1: Lorelei (Ice) [I|III|VII]
+Elite2: Bruno (Fighting) [I|III|VII]
+Elite3: Agatha (Ghost) [I|III|VII]
+Elite4: Lance (Dragon) [I|III|VII]
+Games: Red [I], Green [I], Blue [I], Yellow [I], FireRed [III], LeafGreen [III], Pikachu [VII], Eevee [VII]
+Legendaries: Articuno, Zapdos, Moltres, Mew

@@ -1,0 +1,5 @@
+Name: The Rising Badge
+Nickname: The Rising Badge
+Gym: Blackthorn City Gym
+Leader: Gym Leader Clair
+Unlocks: HM Waterfall, Obedience Lvl 100, Challenge

@@ -1,0 +1,4 @@
+Name: The Coal Badge
+Gym: Oreburgh City Gym
+Leader: Gym Leader Roark
+Unlocks: HM Rock Smash

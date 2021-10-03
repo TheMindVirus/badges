@@ -1,0 +1,4 @@
+Name: The Jade Star Badge
+Gym: Kumquat Island Gym
+Leader: Gym Leader Luana
+Checks: DoublesBattle

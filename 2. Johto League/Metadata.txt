@@ -1,0 +1,10 @@
+Name: The Johto League
+Region: The Johto Region
+Location: Johto Indigo Plateau
+Challengers: The Johto Indigo Elite Four, Team Rocket
+Elite1: Will (Psychic) [II|IV]
+Elite2: Koga (Poison) [II|IV]
+Elite3: Bruno (Fighting) [II|IV]
+Elite4: Karen (Dark) [II|IV]
+Games: Gold [II], Silver [II], Crystal [II], HeartGold [IV], SoulSilver [IV]
+Legendaries: Raikou, Entei, Suicune, Ho-Oh, Lugia

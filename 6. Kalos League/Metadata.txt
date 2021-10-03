@@ -1,0 +1,10 @@
+Name: The Kalos League
+Region: The Kalos Region
+Location: Kalos Victory Road
+Challengers: The Kalos Elite Four, Team Flare, Team Rocket
+Elite1: Malva (Fire) [VI]
+Elite2: Siebold (Water) [VI]
+Elite3: Wikstrom (Steel) [VI]
+Elite4: Drasna (Dragon) [VI]
+Games: X [VI], Y [VI], Z [VI]
+Legendaries: Xerneas, Yveltal, Zygarde

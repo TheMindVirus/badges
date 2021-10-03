@@ -1,0 +1,5 @@
+Name: The Thunder Badge
+Nickname: The Orange Badge
+Gym: Vermilion City Gym
+Leader: Gym Leader Lieutenant Surge
+Unlocks: HM Fly, Speed

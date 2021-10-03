@@ -1,0 +1,5 @@
+Name: The Storm Badge
+Nickname: The Shock Badge
+Gym: Cianwood City Gym
+Leader: Gym Leader Chuck
+Unlocks: HM Fly, Obedience Lvl 60 [HeartGold|SoulSilver]

@@ -1,0 +1,4 @@
+Name: The Grass Badge
+Gym: Turffield Stadium
+Leader: Gym Leader Milo
+Unlocks: Obedience Lvl 25

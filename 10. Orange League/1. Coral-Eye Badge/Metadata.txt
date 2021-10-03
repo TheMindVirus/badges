@@ -1,0 +1,4 @@
+Name: The Coral-Eye Badge
+Gym: Mikan Island Gym
+Leader: Gym Leader Cissy
+Checks: AccuracyTest, Race

@@ -1,0 +1,5 @@
+Name: The Mineral Badge
+Nickname: The Steel Badge
+Gym: Olivine City Gym
+Leader: Gym Leader Jasmine
+Unlocks: Obedience Lvl 70 [HeartGold|SoulSilver]

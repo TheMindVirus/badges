@@ -1,0 +1,4 @@
+Name: The Bolt Badge
+Gym: Nimbasa City Gym
+Leader: Gym Leader Elesa
+Unlocks: HM Strength [1], Obedience Lvl 50

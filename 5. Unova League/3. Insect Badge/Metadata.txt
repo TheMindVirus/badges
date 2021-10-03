@@ -1,0 +1,4 @@
+Name: The Insect Badge
+Gym: Castelia City Gym
+Leader: Gym Leader Burgh
+Unlocks: Obedience Lvl 40

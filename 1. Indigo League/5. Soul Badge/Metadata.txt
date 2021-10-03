@@ -1,0 +1,5 @@
+Name: The Soul Badge
+Nickname: The Pink Badge
+Gym: Fuchsia City Gym
+Leader: Gym Leader Koga, Janine (Gym Leader's Daughter)
+Unlocks: HM Surf, Defence

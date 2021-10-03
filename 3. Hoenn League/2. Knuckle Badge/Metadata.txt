@@ -1,0 +1,5 @@
+Name: The Knuckle Badge
+Nickname: The Knuckle Badge
+Gym: Dewford Town Gym
+Leader: Gym Leader Brawly
+Unlocks: HM Flash, Obedience Lvl 30

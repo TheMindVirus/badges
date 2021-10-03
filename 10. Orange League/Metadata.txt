@@ -1,0 +1,6 @@
+Name: The Orange League
+Region: The Orange Region, Kanto, Johto
+Location: Orange Archipelago
+Challengers: Team Rocket, Tracey, Gary
+Games: Adventures [0]
+Legendaries: Lapras, CrystalOnix

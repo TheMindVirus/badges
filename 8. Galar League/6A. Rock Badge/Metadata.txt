@@ -1,0 +1,5 @@
+Name: The Rock Badge
+Gym: Circhester Stadium
+Leader: Gym Leader Gordie
+Unlocks: Obedience Lvl 50
+Exclusive: Sword

@@ -1,0 +1,5 @@
+Name: The Wave Badge
+Gym: Humilau City Gym
+Leader: Gym Leader Marlon
+Unlocks: Obedience Lvl 100 [2], Challenge [2]
+Exclusive: [2]

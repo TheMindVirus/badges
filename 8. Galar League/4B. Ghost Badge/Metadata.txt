@@ -1,0 +1,5 @@
+Name: The Ghost Badge
+Gym: Stow-on-Side Stadium
+Leader: Gym Leader Allister
+Unlocks: Obedience Lvl 40
+Exclusive: Shield

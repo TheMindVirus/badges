@@ -1,0 +1,4 @@
+Name: The Fire Badge
+Gym: Motostoke Stadium
+Leader: Gym Leader Kabu
+Unlocks: Obedience Lvl 35

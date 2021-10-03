@@ -1,0 +1,5 @@
+Name: The Balance Badge
+Nickname: The Balance Badge
+Gym: Petalburg City Gym
+Leader: Gym Leader Norman (Player's Father)
+Unlocks: HM Surf, Defence

@@ -1,0 +1,3 @@
+Name: The Tranquility Badge
+Master: Gym Leader Erika
+Type: Grass

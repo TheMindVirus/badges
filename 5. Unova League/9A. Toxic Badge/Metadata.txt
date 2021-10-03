@@ -1,0 +1,5 @@
+Name: The Toxic Badge
+Gym: Virbank City Gym
+Leader: Gym Leader Roxie
+Unlocks: Obedience Lvl 30 [2]
+Exclusive: [2]

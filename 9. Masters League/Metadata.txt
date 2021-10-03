@@ -1,0 +1,11 @@
+Name: The Masters League
+Region: The Pasio Region
+Location: PML League, Pasio Island
+Challengers: The Pasio Five Masters, Champion Cynthia
+Master1: Erika (Grass) [IX]
+Master2: Skyla (Flying) [IX]
+Master3: Norman (Normal) [IX]
+Master4: Pryce (Ice) [IX]
+Master5: Hapu (Ground) [IX]
+Games: MastersEX [IX]
+Legendaries: Lugia, Solgaleo, Zamazenta

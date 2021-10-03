@@ -1,0 +1,3 @@
+IconA: Team Instinct (Yellow)
+IconB: Team Mystic (Sky Blue)
+IconC: Team Valor (Burnt Red)

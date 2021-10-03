@@ -1,0 +1,5 @@
+Name: The Dynamo Badge
+Nickname: The Dynamo Badge
+Gym: Mauville City Gym
+Leader: Gym Leader Wattson
+Unlocks: HM Rock Smash, Speed

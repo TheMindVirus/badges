@@ -1,0 +1,4 @@
+Name: The Forest Badge
+Gym: Eterna City Gym
+Leader: Gym Leader Gardenia
+Unlocks: HM Cut, Obedience Lvl 30

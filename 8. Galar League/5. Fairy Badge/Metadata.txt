@@ -1,0 +1,4 @@
+Name: The Fairy Badge
+Gym: Ballonlea Stadium
+Leader: Gym Leader Opal, Gym Leader Bede
+Unlocks: Obedience Lvl 45

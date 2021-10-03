@@ -1,0 +1,5 @@
+Name: The Cascade Badge
+Nickname: The Blue Badge
+Gym: Cerulean City Gym
+Leader: Gym Leader Misty
+Unlocks: HM Cut, Obedience Lvl 30

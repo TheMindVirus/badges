@@ -1,0 +1,4 @@
+Name: The Legend Badge
+Gym: Opelucid City Gym
+Leader: Gym Leader Drayden, Gym Leader Iris [1]
+Unlocks: HM Dive [1], Obedience Lvl 100 [1], Challenge [1], Obedience Lvl 80 [2]

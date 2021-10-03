@@ -1,0 +1,4 @@
+Name: The Water Badge
+Gym: Hulbury Stadium
+Leader: Gym Leader Nessa
+Unlocks: Obedience Lvl 30

@@ -1,0 +1,5 @@
+Name: The Relic Badge
+Gym: Hearthome City Gym
+Leader: Gym Leader Fantina
+Unlocks: HM Surf, HM Defog [Platinum]
+Notes: 3th Gym [Platinum]

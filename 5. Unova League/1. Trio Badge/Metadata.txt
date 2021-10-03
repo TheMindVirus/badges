@@ -1,0 +1,5 @@
+Name: The Trio Badge
+Gym: Striaton City Gym
+Leader: Gym Leaders Cilan, Chili & Cress
+Unlocks: HM Cut [1], Obedience Lvl 20 [1]
+Exclusive: [1]

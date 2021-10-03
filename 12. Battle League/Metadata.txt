@@ -1,0 +1,7 @@
+Name: The Battle League
+Region: The Solar System
+Location: Earth
+Challengers: (Everyone)
+Games: GO [X]
+Legendaries: (All Legendaries)
+

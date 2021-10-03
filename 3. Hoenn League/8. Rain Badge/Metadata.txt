@@ -1,0 +1,5 @@
+Name: The Rain Badge
+Nickname: The Rain Badge
+Gym: Sootopolis City Gym
+Leader: Gym Leader Wallace, Gym Leader Juan [Emerald]
+Unlocks: HM Waterfall, Obedience Lvl 100, Challenge

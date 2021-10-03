@@ -1,0 +1,5 @@
+Name: The Psychic Badge
+Nickname: The Psychic Badge
+Gym: Anistar City Gym
+Leader: Gym Leader Olympia
+Unlocks: Obedience Lvl 90

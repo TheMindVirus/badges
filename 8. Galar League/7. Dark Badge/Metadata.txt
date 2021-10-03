@@ -1,0 +1,4 @@
+Name: The Dark Badge
+Gym: Spikemuth Stadium
+Leader: Gym Leader Piers, Gym Leader Marnie
+Unlocks: Obedience Lvl 55

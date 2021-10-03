@@ -1,0 +1,5 @@
+Name: The Fen Badge
+Gym: Pastoria City Gym
+Leader: Gym Leader Crasher Wake
+Unlocks: HM Defog, HM Surf [Platinum], Obedience Lvl 50 (as 4th Gym)
+Notes: 5th Gym [Platinum]

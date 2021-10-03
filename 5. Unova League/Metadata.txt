@@ -1,0 +1,10 @@
+Name: The Unova League
+Region: The Unova Region
+Location: Unova Victory Road
+Challengers: The Unova Elite Four, Team Plasma, Team Rocket
+Elite1: Shauntal (Ghost) [V]
+Elite2: Marshal (Fighting) [V]
+Elite3: Grimsley (Dark) [V]
+Elite4: Caitlin (Psychic) [V]
+Games: Black [V], White [V], Black2 [V], White2 [V]
+Legendaries: Cobalion, Terrakion, Virizion, Tornadus, Thundurus, Reshiram, Zekrom, Landorus, Kyurem, Genesect

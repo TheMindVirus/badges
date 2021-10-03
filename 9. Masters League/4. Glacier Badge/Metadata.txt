@@ -1,0 +1,3 @@
+Name: The Glacier Badge
+Master: Gym Leader Pryce
+Type: Ice

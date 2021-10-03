@@ -1,0 +1,5 @@
+Name: The Glacier Badge
+Nickname: The Ice Badge
+Gym: Mahogany Town Gym
+Leader: Gym Leader Pryce
+Unlocks: HM Whirlpool, Special

@@ -1,0 +1,4 @@
+Name: The Basic Badge
+Gym: Nacrene City Gym
+Leader: Gym Leader Lenora [1], Gym Leader Cheren [2]
+Unlocks: Obedience Lvl 30 [1], Obedience Lvl 20 [2]

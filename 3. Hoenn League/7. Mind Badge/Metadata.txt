@@ -1,0 +1,5 @@
+Name: The Mind Badge
+Nickname: The Mind Badge
+Gym: Mossdeep City Gym
+Leader: Gym Leaders Tate & Liza (Twins)
+Unlocks: HM Dive, Special

@@ -1,0 +1,3 @@
+Name: The Pride Badge
+Master: Gym Leader Hapu
+Type: Ground

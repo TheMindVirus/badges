@@ -1,0 +1,5 @@
+Name: The Earth Badge
+Nickname: The Green Badge
+Gym: Viridian City Gym
+Leader: Gym Leader Giovanni, Blue Oak (Rival) [Gold|Silver|Crystal]
+Unlocks: HM Rock Climb [HeartGold|SoulSilver], Obedience Lvl 100, Challenge

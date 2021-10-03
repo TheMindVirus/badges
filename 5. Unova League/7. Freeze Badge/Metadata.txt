@@ -1,0 +1,5 @@
+Name: The Freeze Badge
+Gym: Icirrus City Gym
+Leader: Gym Leader Brycen
+Unlocks: HM Waterfall [1], Obedience Lvl 80
+Exclusive: [1]

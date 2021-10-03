@@ -1,0 +1,5 @@
+Name: The Volcano Badge
+Nickname: The Crimson Badge
+Gym: Cinnabar Island Gym
+Leader: Gym Leader Blaine
+Unlocks: HM Waterfall [FireRed|LeafGreen], Special

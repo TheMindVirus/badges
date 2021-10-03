@@ -1,0 +1,5 @@
+Name: The Rainbow Badge
+Nickname: The Rainbow Badge
+Gym: Celadon City Gym
+Leader: Gym Leader Erika
+Unlocks: HM Strength, Obedience Lvl 50
